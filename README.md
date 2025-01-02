@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heng</h1>
-<h3 align="center">Full Stack Developer & UX/UI Designer</h3>
+<h3 align="center">Web Developer & UX/UI Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heng148&label=Profile%20views&color=0e75b6&style=flat" alt="heng148" /> </p>
 
